@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/3d02094f-c369-487d-b00e-6a5e37b62b24
+
 # AML-GNN: Graph Neural Network for Anti-Money Laundering Detection
 
 ## 🎥 Project Demo
