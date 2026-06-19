@@ -1,0 +1,13 @@
+# Core Data Processing
+pandas>=3.0.0
+numpy>=2.0.0
+pyarrow>=24.0.0
+
+# Deep Learning & Graph Neural Networks
+torch>=2.12.0
+torch_geometric>=2.8.0
+torchmetrics>=1.9.0
+
+# Dashboard & Visualization
+streamlit>=1.58.0
+pyvis>=0.3.0

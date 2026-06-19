@@ -1,0 +1,14 @@
+{
+  "model": "GraphSAGE (2-layer) + MLP Edge Classifier",
+  "total_nodes": 515080,
+  "total_edges": 5078345,
+  "fraud_rate_pct": 0.0632,
+  "pos_weight": 1581.5,
+  "test_precision": 0.0115,
+  "test_recall": 0.7143,
+  "test_f1": 0.0226,
+  "test_auprc": 0.0423,
+  "best_val_auprc": 0.0454,
+  "epochs_trained": 18,
+  "device": "cpu"
+}
